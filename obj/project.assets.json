@@ -8155,19 +8155,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/peiling/.nuget/packages/": {}
+    "/Users/harikrishnagonuguntla/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/peiling/Desktop/2024 Spring/TaskTracker/TaskTracker.csproj",
+      "projectUniqueName": "/Users/harikrishnagonuguntla/GitLocalProject/TaskTracker/TaskTracker.csproj",
       "projectName": "TaskTracker",
-      "projectPath": "/Users/peiling/Desktop/2024 Spring/TaskTracker/TaskTracker.csproj",
-      "packagesPath": "/Users/peiling/.nuget/packages/",
-      "outputPath": "/Users/peiling/Desktop/2024 Spring/TaskTracker/obj/",
+      "projectPath": "/Users/harikrishnagonuguntla/GitLocalProject/TaskTracker/TaskTracker.csproj",
+      "packagesPath": "/Users/harikrishnagonuguntla/.nuget/packages/",
+      "outputPath": "/Users/harikrishnagonuguntla/GitLocalProject/TaskTracker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/peiling/.nuget/NuGet/NuGet.Config"
+        "/Users/harikrishnagonuguntla/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -8240,7 +8240,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
